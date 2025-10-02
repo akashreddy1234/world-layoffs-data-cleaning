@@ -29,7 +29,7 @@ Null and blank values are handled carefully: missing `industry` values are popul
 
 1. Import the raw CSV into MySQL:
 ```sql
-LOAD DATA INFILE 'data/raw/layoffs.csv'
+LOAD DATA INFILE 'layoffs.csv'
 INTO TABLE layoffs
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
