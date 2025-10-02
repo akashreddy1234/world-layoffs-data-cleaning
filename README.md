@@ -1,5 +1,4 @@
-
-                                                                                                                         # World Layoffs Data Cleaning Project
+ # World Layoffs Data Cleaning Project
 
 This repository contains the raw and cleaned dataset for **World Layoffs**, along with SQL scripts used to clean, standardize, and prepare the data for analysis. The project demonstrates best practices in data cleaning, including handling duplicates, null values, and inconsistent formats.
 
