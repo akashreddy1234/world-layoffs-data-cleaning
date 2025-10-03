@@ -66,7 +66,7 @@ This structure keeps raw data separate from cleaned data and scripts, making it 
 
 **Akashreddy Biyyam**
 
-* GitHub: [Your GitHub URL]
+* GitHub: [https://github.com/akashreddy1234/world-layoffs-data-cleaning]
 * Email: [akashreddybiyyam@gmail.com]
 
 
